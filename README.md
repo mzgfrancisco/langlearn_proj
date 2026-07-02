@@ -1,2 +1,2 @@
 # langlearn_proj
-langlearn is an academic laravel project that serves filipino and english language learning platform with quick quizzes and reviewers 
+LangLearn is an academic Laravel project that serves as a Filipino and English language learning platform, featuring quick quizzes and reviewers
